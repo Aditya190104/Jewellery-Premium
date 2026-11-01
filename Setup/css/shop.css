@@ -1,0 +1,183 @@
+/*
+Template Name: Jewelry
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************center_shop****************/
+.center_shop_1 {
+margin-top:20px; 
+ }
+.ziehharmonika h3 {
+	cursor: pointer;
+	padding-right: 40px;
+	transition: 0.25s all;
+	position: relative;
+	font-size:18px;
+	font-weight:bold;
+}
+.ziehharmonika ul{
+ list-style:disc; 
+ margin-left:30px;
+  }
+.ziehharmonika ul li{
+margin-top:3px;
+margin-bottom:3px;
+font-size:16px; 
+ }
+.ziehharmonika h3.alignLeft {
+	padding-left: 35px;
+}
+.ziehharmonika > div {
+	display: none;
+}
+
+.ziehharmonika .collapseIcon {
+	position: absolute;
+	right: 20px;
+	top: 45%;
+	font-size: 24px;
+	font-weight: 300;
+	-ms-transform: translate(0, -50%);
+	    transform: translate(0, -50%);
+}
+.ziehharmonika .collapseIcon.alignLeft {
+	right: initial;
+	left: 20px;
+}
+ .ziehharmonika h3.active {
+color:#dfb858;
+}
+.center_shop_1li h5{
+background:#dfb858;
+color:#fff; 
+padding:10px 10px 10px 10px;
+ }
+.center_shop{
+padding-top:40px;
+padding-bottom:40px; 
+ }
+.center_shop_1li{
+padding: 10px;
+box-shadow: 0 0 10px #dfb858b3; 
+ }
+.center_shop_1li1 h5{
+background:#dfb858;
+color:#fff; 
+padding:10px 10px 10px 10px;
+margin-bottom:10px;
+ }
+.center_shop_1li1{
+padding: 10px;
+box-shadow: 0 0 10px #dfb858b3;
+margin-top:20px; 
+ }
+.center_shop_1li1i ul li{
+display:inline-block;
+margin-top:5px; 
+ }
+.center_shop_1li1i ul li a {
+    padding: 8px 8px 10px 8px;
+    display: block;
+    background: #dfb85838;
+}
+.center_shop_1li1i ul li a:hover {
+background:#dfb858;
+color:#fff; 
+}
+.center_shop_1li1 .form-control{
+ border-radius:0;
+ margin-top:15px;
+ border-color: #dfb8584d;
+ font-size:16px;
+ box-shadow:none;
+ }
+.center_shop_1li1 img{
+margin-left:auto;
+margin-right:auto; 
+margin-top:5px;
+ }
+.center_product_1r2r h5{
+display:inline-block;
+margin-right:10px; 
+ }
+.center_product_1r2r .form-control{
+display:inline-block;
+width:50%; 
+border-radius:0;
+border-color: #dfb8584d;
+box-shadow:none;
+ }
+.center_product_1r2{
+box-shadow: 0 0 10px #dfb858b3;
+padding-top:10px;
+padding-bottom:10px;
+ }
+.center_product_1r2l{
+ padding-top:6px;
+ }
+.collcet_1r{
+ margin-top:20px;
+ }
+.collcet_1r .space_left{
+padding-left:10px;
+padding-right:10px; 
+ }
+.product_1_last{
+margin-top:30px; 
+ }
+.product_1_last ul li{
+ display:inline-block;
+ margin: 0 2px;
+ width:45px;
+ height:45px;
+ line-height:45px;
+ background: #dfb85838;
+ text-align:center;
+ border-radius:3px;
+ }
+.product_1_last ul li a{
+display:block;
+color: #333;
+ }
+.product_1_last ul li:hover{
+ background: #dfb858;
+ }
+.product_1_last ul li:hover a{
+ color: #fff;
+ }
+.act{
+  background:#dfb858!important;
+ }
+.act a{
+ color: #fff!important;
+ }
+/*********************center_shop_end****************/
+
+@media screen and (max-width : 767px){
+.center_shop_1r{
+margin-top:20px; 
+ }
+.center_product_1r2r{
+text-align:center;
+margin-top:8px; 
+ }
+.collcet_1r{
+text-align:left; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1220px) {
+
+ }
+
+
+
+
